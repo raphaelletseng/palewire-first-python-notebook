@@ -3,6 +3,12 @@ Tutorial from [https://palewi.re/docs/first-python-notebook/appendix/index.html]
 
 ![datawrapper](datawrapper-accident-rate-ranking.png)
 
+## Data
+[ntsb accidents](https://raw.githubusercontent.com/palewire/first-python-notebook/main/docs/src/_static/ntsb-accidents.csv)
+[faa_survey data](https://raw.githubusercontent.com/palewire/first-python-notebook/main/docs/src/_static/faa-survey.csv)
+
+
+
 ## Summary of things we learnt
 
 - Panda series turn lists into more useful things that we can `.max(), .min(), .sum(), .mean(), .describe()`
